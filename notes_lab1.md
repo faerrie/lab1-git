@@ -22,6 +22,8 @@ read.md, result_git_log.jpeg and modification-1.md with the message "Added modif
 7* we switched back to master branch again, we can now visualize which branch each of the commits were made to.
 With merge command we merged both branches to master then deleted the branch-1.
 
+--- only a modification of the file modification-1.md was made since we created that file after switching to branch-1 and as we switched back to master a modification was made.---
+
 Exercise 3 : Undo the last commit
 
 4* With reflog we save the updates made to the branches and saw each update.
