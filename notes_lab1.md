@@ -1,6 +1,6 @@
 Exercise 1: Creating an empty Git repository, first commit
 
-4* We are on branch master 
+4* We are on branch master no commits were made.
 
 6* We observe that we did not commit anything yet
 
